@@ -1,0 +1,20 @@
+// Programa de teste da Linguagem CT
+
+// Declaracao de Classes
+
+classe Aluno {
+
+	inteiro num, num_notas
+	vetor inteiro notas[30]
+	funcao_principal{
+	}
+
+	// funcoes da classe aluno
+	real media(){
+		inteiro total, i
+		real media
+
+	}
+	
+
+}
